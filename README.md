@@ -26,7 +26,11 @@ A visually appealing clone of the Netflix website, created using only **HTML** a
 4. Explore the design and layout of the Netflix clone.
 
 ## Screenshots
-![Netflix Clone Desktop View](Screenshots/screenshot1.png)
+### Desktop View
+![Screenshot-1](Screenshots/Screenshot1.png)
+![Screenshot-2](Screenshots/Screenshot2.png)
+![Screenshot-3](Screenshots/Screenshot3.png)
+![Screenshot-4](Screenshots/Screenshot4.png)
 
 ## Future Enhancements
 - Add interactivity using JavaScript.
